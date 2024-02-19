@@ -1,4 +1,4 @@
-# Health-Analysis-Dashboard
+# Health-Analysis-Dashboard-Power-Bi
 "The dashboard "Health Analysis Dashboard" presents various healthcare-related metrics:
 
 Billing Amount: A figure of 7.47M is displayed, presumably indicating the total billing amount in millions of dollars.
